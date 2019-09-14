@@ -63,7 +63,7 @@ USE DROPBOX_BLOCKS_N_CHAINS=0
 ASCII_ART () {
 echo -e "\e[0m"
 clear 2> /dev/null
-cat << "LIGHTPAYCOIN"
+cat << "XCHAINZ"
     
  \  /   /~~   ~~|            
   \/   |       / 
