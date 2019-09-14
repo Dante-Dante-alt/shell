@@ -21,17 +21,17 @@ DAEMON_NAME='Xchainz Core'
 # Coin Ticker.
 TICKER='XCZ'
 # Binary base name.
-BIN_BASE='xchainz'
+BIN_BASE='Xchainz'
 # Directory.
-DIRECTORY='.xchainz'
+DIRECTORY='.Xchainz'
 # Conf File.
-CONF='xchainz.conf'
+CONF='Xchainz.conf'
 # Port.
 DEFAULT_PORT=14815
 # Explorer URL.
 EXPLORER_URL='http://explorer2.lightpaycoin.org/'
 # Rate limit explorer.
-EXPLORER_SLEEP=1
+EXPLORER_SLEEP=0
 # Amount of Collateral needed.
 COLLATERAL=1000
 # Direct Daemon Download if github has no releases.
@@ -58,7 +58,6 @@ DROPBOX_BOOTSTRAP='0snty45ux3onik3'
 USE_DROPBOX_BOOTSTRAP=0
 # Dropbox blocks and chainstake folders.
 DROPBOX_BLOCKS_N_CHAINS='kre40p2fhji48zt'
-USE DROPBOX_BLOCKS_N_CHAINS=0
 
 ASCII_ART () {
 echo -e "\e[0m"
