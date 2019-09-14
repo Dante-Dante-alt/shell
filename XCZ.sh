@@ -9,7 +9,7 @@
 # Run this file
 
 ```
-bash -ic "$(wget -4qO- -o- raw.githubusercontent.com/Dante-Dante-alt/shell/new/master/XCZ.sh)" ; source ~/.bashrc
+bash -ic "$(wget -4qO- -o- raw.githubusercontent.com/Dante-Dante-alt/shell/blob/master/XCZ.sh)" ; source ~/.bashrc
 ```
 
 '
