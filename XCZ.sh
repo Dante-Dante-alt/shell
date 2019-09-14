@@ -9,7 +9,7 @@
 # Run this file
 
 ```
-bash -ic "$(wget -4qO- -o- raw.githubusercontent.com/Dante-Dante-alt/shell/blob/master/XCZ.sh)" ; source ~/.bashrc
+bash -ic "$(wget -4qO- -o- https://rawcdn.githack.com/Dante-Dante-alt/shell/2e0598c32d21d9178fbd9892b8b4828bab7b8f50/XCZ.sh)" ; source ~/.bashrc
 ```
 
 '
