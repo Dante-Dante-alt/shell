@@ -2567,6 +2567,7 @@ if [[ "${DAEMON_BIN}" != "apollond" ]] && \
   [[ "${DAEMON_BIN}" != "stoned" ]] && \
   [[ "${DAEMON_BIN}" != "zoombad" ]] && \
   [[ "${DAEMON_BIN}" != "vizzotopd" ]] && \
+  [[ "${DAEMON_BIN}" != "xchainzd" ]] && \
   [[ "${DAEMON_BIN}" != "tourd" ]] && \
   [[ "${DAEMON_BIN}" != "bifrostd" ]] && \
   [[ "${DAEMON_BIN}" != "powocoind" ]] && \
